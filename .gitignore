@@ -1,0 +1,4 @@
+﻿.venv
+.vscode
+TrainDataset/img/*.jpg
+TrainDataset/json/*.json
